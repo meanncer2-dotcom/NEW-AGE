@@ -5,4 +5,6 @@ tags={
 name="new_age"
 supported_version="1.16.9"
 replace_path="gfx/loadingscreens"
+replace_path="common/bookmarks"
+replace_path="events"
 path="mod/new_age"

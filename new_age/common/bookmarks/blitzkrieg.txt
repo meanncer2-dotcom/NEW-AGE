@@ -1,0 +1,30 @@
+bookmarks = {
+	bookmark = {
+		name = "newage_NAME"
+		desc = "newage_DESC"
+		date = 1936.1.1.12
+		picture = "GFX_select_date_1939"
+		default_country = "GFE"
+	
+		GFE = {
+			history = FRA_BLITZKRIEG_DESC
+			ideology = right
+			ideas={
+				
+			}
+			focuses = {
+				
+			}
+		}
+		RSS = {
+			history = FRA_BLITZKRIEG_DESC
+			ideology = far_left
+			ideas={
+				
+			}
+			focuses = {
+				
+			}
+		}
+	}
+}
