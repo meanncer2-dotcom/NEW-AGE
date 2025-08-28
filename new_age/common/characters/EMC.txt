@@ -1,0 +1,16 @@
+characters = {
+	EMC_Faizulla_Khodjaev = {
+		name = "Faizulla Khodjaev" 
+		portraits = {
+			civilian = {
+				large = GFX_portrait_EMC_Faizulla_Khodjaev
+			}
+		}
+		country_leader = {
+			ideology = marxism_leninism
+			expire = "1950.1.1.1"
+			id = -1
+		}
+	}
+}
+	

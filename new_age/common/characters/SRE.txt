@@ -1,0 +1,16 @@
+characters = {
+	SRE_Mikhail_Kalinin = {
+		name = "Mikhail Kalinin" 
+		portraits = {
+			civilian = {
+				large = GFX_portrait_SRE_Mikhail_Kalinin
+			}
+		}
+		country_leader = {
+			ideology = marxism_leninism
+			expire = "1950.1.1.1"
+			id = -1
+		}
+	}
+}
+	

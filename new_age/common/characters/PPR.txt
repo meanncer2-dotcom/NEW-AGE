@@ -1,0 +1,16 @@
+characters = {
+	PPR_Józef_Unszlicht = {
+		name = "Józef Unszlicht" 
+		portraits = {
+			civilian = {
+				large = GFX_portrait_PPR_Józef_Unszlicht
+			}
+		}
+		country_leader = {
+			ideology = marxism_leninism
+			expire = "1950.1.1.1"
+			id = -1
+		}
+	}
+}
+	

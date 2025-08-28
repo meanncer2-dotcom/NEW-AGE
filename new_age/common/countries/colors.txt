@@ -1,0 +1,41 @@
+
+PSS = {
+	color = rgb {128  65  75}
+	color_ui = rgb { 139 20 20 }
+}
+RSS = {
+	color = rgb {128  65  75}
+	color_ui = rgb { 139 20 20 }
+}
+FER = {
+	color = rgb {128  65  75}
+	color_ui = rgb { 139 20 20 }
+}
+BSS = {
+	color = rgb {128  65  75}
+	color_ui = rgb { 139 20 20 }
+}
+SRE = {
+	color = rgb {128  65  75}
+	color_ui = rgb { 139 20 20 }
+}
+CHR = {
+	color = rgb {1  108  84}
+	color_ui = rgb { 139 20 20 }
+}
+PPR = {
+	color = rgb {128  65  75}
+	color_ui = rgb { 139 20 20 }
+}
+EMC = {
+	color = rgb {128  65  75}
+	color_ui = rgb { 139 20 20 }
+}
+PRZ = {
+	color = rgb {160  56  52}
+	color_ui = rgb { 139 20 20 }
+}
+GFE = {
+	color = rgb {150  150  150}
+	color_ui = rgb { 139 20 20 }
+}

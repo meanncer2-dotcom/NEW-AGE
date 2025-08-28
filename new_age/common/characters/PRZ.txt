@@ -1,0 +1,16 @@
+characters = {
+	PRZ_Chen_Gongbo = {
+		name = "Chen Gongbo" 
+		portraits = {
+			civilian = {
+				large = GFX_portrait_PRZ_Chen_Gongbo
+			}
+		}
+		country_leader = {
+			ideology = marxism_leninism
+			expire = "1950.1.1.1"
+			id = -1
+		}
+	}
+}
+	

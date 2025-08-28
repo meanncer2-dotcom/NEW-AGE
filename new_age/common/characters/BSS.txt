@@ -1,0 +1,16 @@
+characters = {
+	BSS_Jānis_Bērziņš-Ziemelis = {
+		name = "Jānis Bērziņš-Ziemelis" 
+		portraits = {
+			civilian = {
+				large = GFX_portrait_BSS_Jānis_Bērziņš-Ziemelis
+			}
+		}
+		country_leader = {
+			ideology = marxism_leninism
+			expire = "1950.1.1.1"
+			id = -1
+		}
+	}
+}
+	

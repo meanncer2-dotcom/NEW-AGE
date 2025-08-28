@@ -1,0 +1,16 @@
+characters = {
+	GFE_Kuno_von_Westarp = {
+		name = "Kuno von Westarp" 
+		portraits = {
+			civilian = {
+				large = GFX_portrait_GFE_Kuno_von_Westarp
+			}
+		}
+		country_leader = {
+			ideology = conservatism
+			expire = "1950.1.1.1"
+			id = -1
+		}
+	}
+}
+	

@@ -1,0 +1,16 @@
+characters = {
+	FER_Vasily_Blyukher = {
+		name = "Vasily Blyukher" 
+		portraits = {
+			civilian = {
+				large = GFX_portrait_FER_Vasily_Blyukher
+			}
+		}
+		country_leader = {
+			ideology = marxism_leninism
+			expire = "1950.1.1.1"
+			id = -1
+		}
+	}
+}
+	

@@ -1,0 +1,45 @@
+spriteTypes = {
+
+	# leaders we need to override in DLC go in this file
+
+	spriteType = {
+		name = "GFX_portrait_RSS_Vladimir_Lenin"
+		texturefile = "gfx/leaders/RSS/RSS_Vladimir_Lenin.png"
+	}
+		spriteType = {
+		name = "GFX_portrait_SRE_Mikhail_Kalinin"
+		texturefile = "gfx/leaders/SRE/SRE_Mikhail_Kalinin.png"
+	}
+		spriteType = {
+		name = "GFX_portrait_FER_Vasily_Blyukher"
+		texturefile = "gfx/leaders/FER/FER_Vasily_Blyukher.png"
+	}
+			spriteType = {
+		name = "GFX_portrait_BSS_Jānis_Bērziņš-Ziemelis"
+		texturefile = "gfx/leaders/BSS/BSS_Jānis_Bērziņš-Ziemelis.png"
+	}
+			spriteType = {
+		name = "GFX_portrait_PSS_Vladimir_Yudovsky"
+		texturefile = "gfx/leaders/PSS/PSS_Vladimir_Yudovsky.png"
+	}
+			spriteType = {
+		name = "GFX_portrait_CHR_Fyodor_Sorokin"
+		texturefile = "gfx/leaders/CHR/CHR_Fyodor_Sorokin.png"
+	}
+			spriteType = {
+		name = "GFX_portrait_PPR_Józef_Unszlicht"
+		texturefile = "gfx/leaders/PPR/PPR_Józef_Unszlicht.png"
+	}
+			spriteType = {
+		name = "GFX_portrait_EMC_Faizulla_Khodjaev"
+		texturefile = "gfx/leaders/EMC/EMC_Faizulla_Khodjaev.png"
+	}
+			spriteType = {
+		name = "GFX_portrait_PRZ_Chen_Gongbo"
+		texturefile = "gfx/leaders/PRZ/PRZ_Chen_Gongbo.png"
+	}
+			spriteType = {
+		name = "GFX_portrait_GFE_Kuno_von_Westarp"
+		texturefile = "gfx/leaders/GFE/GFE_Kuno_von_Westarp.png"
+	}
+}

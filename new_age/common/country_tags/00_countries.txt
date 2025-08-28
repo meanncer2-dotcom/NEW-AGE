@@ -1,0 +1,11 @@
+
+PSS = "countries/Pridnestrovian Soviet Socialist Republic.txt"
+RSS = "countries/Russian Soviet Socialist Republic.txt"
+FER = "countries/Far Eastern Republic.txt"
+BSS = "countries/Baltic Soviet Federative Socialist Republic.txt"
+SRE = "countries/Siberian Republic.txt"
+CHR = "countries/Black Sea Republic.txt"
+PPR = "countries/Poland People Republic.txt"
+EMC = "countries/Extraordinary Military Commission in Kyrgyzstan.txt"
+PRZ = "countries/People's Republic of Zhongguo.txt"
+GFE = "countries/German Federation.txt"
